@@ -1,8 +1,8 @@
 ## Hi there, I'm Sneha! 👋
 
 ##### SKILLED IN
-<img alt="C++" align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="C" align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><br></br>
+<img alt="C++" align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C" align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><br></br>
 
 ##### WITH KNOWLEDGE OF
 
